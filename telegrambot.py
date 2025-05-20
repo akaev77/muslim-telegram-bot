@@ -73,7 +73,7 @@ TARIFFS = {
 
 # Настройки канала и бота
 CHANNEL_ID = -1002556601836  # Замените на ID вашего канала
-BOT_TOKEN = 7678032381:AAG7gs3yTU8bfOrxx3ItNNbZEX-IruSaEGI  # Получите у @BotFather
+BOT_TOKEN = BOT_TOKEN = "7678032381:AAG7gs3yTU8bfOrxx3ItNNbZEX-IruSaEGI"  # Получите у @BotFather  # Получите у @BotFather
 ADMIN_ID = 7281866890  # Замените на ваш Telegram ID
 
 # Файл для хранения данных о пользователях и платежах
